@@ -1,0 +1,28 @@
+# anoatual= int(input("Digite o ano em que estamos: "))
+# anonasc= int(input("Digite o ano em que você nasceu: "))
+# idade= anoatual-anonasc
+
+# print(f"Você tem {idade} anos de idade!")
+
+
+# --------------------------------------------------------------------
+
+# primeironum = int(input("Digita um número: "))
+# segundonum = int(input("Digite outro número: "))
+
+# soma = primeironum+segundonum
+# sub = primeironum-segundonum
+# multi = primeironum*segundonum
+# div = primeironum/segundonum
+
+# print(f" {primeironum}+{segundonum}= {soma}\n {primeironum}-{segundonum}= {sub}\n {primeironum}*{segundonum}= {multi}\n {primeironum}/{segundonum}= {div}")
+
+# -----------------------------------------------------------------------
+
+# nota1= float(input("Digite a primeira nota: "))
+# nota2= float(input("Digite a segunda nota: "))
+# nota3= float(input("Digite a terceira nota: "))
+
+# media= (nota1+nota2+nota3)/3
+
+# print(f"A média é: {media}")
